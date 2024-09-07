@@ -1,4 +1,4 @@
-bias,wheel-base,length,width,curb-weight,num-of-cylinders,engine-size,horsepower,city-mpg,highway-mpg,price
+het,wheel-base,length,width,curb-weight,num-of-cylinders,engine-size,horsepower,city-mpg,highway-mpg,price
 1,88.6,168.8,64.1,2548,4,130,111,21,27,13495
 1,88.6,168.8,64.1,2548,4,130,111,21,27,16500
 1,94.5,171.2,65.5,2823,6,152,154,19,26,16500
