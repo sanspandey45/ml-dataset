@@ -3,7 +3,6 @@ Dataset for HW 1
 
 features in order (not including row of 1s):
 
-intercept
 wheel-base
 length
 width
@@ -15,5 +14,5 @@ peak-rpm
 city-mpg
 highway-mpg
 
-dependent variable (last column)
+dependent variable (last column):
 price
